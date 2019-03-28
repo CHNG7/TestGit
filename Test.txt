@@ -1,0 +1,6 @@
+hey Noobs!!!!!
+git clone http://....
+git add 
+git status
+git commit -m "(committed message)" file 
+git push -u origin master
